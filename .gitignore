@@ -1,0 +1,22 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependencies
+node_modules/
+/dist
+
+# Optional files
+.env
+.DS_Store
+
+# Testing
+coverage/
+
+# Aplicacion AgendaWeb Dávila
+Agenda Clinica Davila_files
+Agenda Clinica Davila.htm*

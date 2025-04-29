@@ -1,0 +1,11 @@
+{
+  "name": "homologacion-davila",
+  "version": "0.0.0",
+  "description": "Integración 'sucia' para homologar el funcionamiento de la AgendaWeb de la Clínica Dávila a Starbien como un proveedor no oficial",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
