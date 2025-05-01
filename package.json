@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "homologacion-davila",
   "version": "0.0.0",
   "description": "Integración 'sucia' para homologar el funcionamiento de la AgendaWeb de la Clínica Dávila a Starbien como un proveedor no oficial",
