@@ -1,0 +1,1142 @@
+[
+	{
+		"name": "Medicina General",
+		"data-id": 30101014,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Ginecologia - General",
+		"data-id": 88889050,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Andrologia",
+		"data-id": 32701366,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Arritmia - Marcapaso",
+		"data-id": 30101001,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Broncopulmonar Adulto",
+		"data-id": 30101002,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Broncopulmonar Infantil",
+		"data-id": 32701268,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Cardiologia - Arritmias",
+		"data-id": 30101003,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Cardiologia Adulto",
+		"data-id": 88889105,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Cardiologia Adulto - Agenda Docente",
+		"data-id": 30101004,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Cardiologia Infantil",
+		"data-id": 32701347,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Cardiologia Infantil - Arritmia",
+		"data-id": 30101005,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Cirugia Adulto",
+		"data-id": 30101005,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Cirugia Adulto",
+		"data-id": 32701159,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Cirugia Bariatrica",
+		"data-id": 32701047,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Cirugia Cabeza Y Cuello",
+		"data-id": 32701172,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Cirugia Cardiaca",
+		"data-id": 32701284,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Cirugia Columna - Neurocirugia Adulto",
+		"data-id": 88888951,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Cirugia De Torax Pediatrico",
+		"data-id": 88889046,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Cirugia Dental",
+		"data-id": 32701031,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Cirugia Digestiva",
+		"data-id": 32701360,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Cirugia Endoscopica",
+		"data-id": 30101038,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Cirugia Infantil",
+		"data-id": 30101049,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Cirugia Mamas",
+		"data-id": 88889076,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Cirugia Maxilofacial",
+		"data-id": 32701052,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Cirugia Oncologica Adulto",
+		"data-id": 88889088,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Cirugia Plastica - Pad Abdominoplastia",
+		"data-id": 600103600,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Cirugia Plastica Adulto",
+		"data-id": 32701190,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Cirugia Plastica Estetica Y Reparadora",
+		"data-id": 32701029,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Cirugia Plastica Infantil",
+		"data-id": 32701189,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Cirugia Plastica Reparadora",
+		"data-id": 30101006,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Cirugia Torax",
+		"data-id": 30101009,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Cirugia Vascular Adulto",
+		"data-id": 32701017,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Cirugia Vascular Periferica",
+		"data-id": 88889057,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Clinica De Lactancia",
+		"data-id": 30101029,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Coloproctologia",
+		"data-id": 32701196,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Composicion Corporal Bioimpedanciometria",
+		"data-id": 88889158,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Consejeria Genetica",
+		"data-id": 88888977,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Consejeria Genetica En Cancer",
+		"data-id": 32701149,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Consulta Cicatrices - Compresiones (Kine",
+		"data-id": 32701198,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Consulta Superintendencia",
+		"data-id": 32701222,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Control De Paciente Oncologico Pediatric",
+		"data-id": 32701199,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Control Hepatitis B Y C",
+		"data-id": 32701096,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Control Marcapaso",
+		"data-id": 32701087,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Control Post Trasplante Hepatico",
+		"data-id": 32701086,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Control Trasplante Renal",
+		"data-id": 32701275,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Dermatologia - Medicina General",
+		"data-id": 30101010,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Dermatologia Adulto",
+		"data-id": 88889112,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Dermatologia Adulto - Agenda Docente",
+		"data-id": 32701331,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Dermatologia Adulto E Infantil",
+		"data-id": 30101061,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Dermatologia Infantil",
+		"data-id": 88889027,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Diabetes Educacion Enfermera",
+		"data-id": 32701273,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Diabetologia Adulto",
+		"data-id": 32701294,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Diabetologia Infantil",
+		"data-id": 30101036,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Diabetologia Y Nutricion Adulto",
+		"data-id": 32701010,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Disfuncion",
+		"data-id": 88889025,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Donante De Sangre",
+		"data-id": 30101011,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Endocrinologia Adulto",
+		"data-id": 30101056,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Endocrinologia Infantil",
+		"data-id": 32701006,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Endodoncia",
+		"data-id": 32701358,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Enfermedades Inflamatorias-Ssc",
+		"data-id": 32701229,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Esclerosis Multiple",
+		"data-id": 88889018,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Evaluacion Centro De Nutricion Y Tratamiento De Obesidad",
+		"data-id": 32701160,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Evaluacion Neuropsicologica",
+		"data-id": 32701263,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Evaluacion Neuropsicologica Del Dolor",
+		"data-id": 32701103,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Evaluacion Preoperatoria",
+		"data-id": 32701012,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Fisiatria Adulto",
+		"data-id": 32701090,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Fisiatria Infantil",
+		"data-id": 30101037,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Fonoaudiologia Adulto",
+		"data-id": 32701091,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Fonoaudiologia Adulto Alt Voz Y Lenguaje",
+		"data-id": 30101058,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Fonoaudiologia Infantil",
+		"data-id": 32701092,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Fonoaudiologia Infantil Alt Voz Y Lengua",
+		"data-id": 88889098,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Gastroenterologia - Agenda Docente",
+		"data-id": 30101012,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Gastroenterologia Adulto",
+		"data-id": 30101057,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Gastroenterologia Infantil",
+		"data-id": 32701055,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Genetica Clinica",
+		"data-id": 32701055,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Genetica_Clinica",
+		"data-id": 30101013,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Geriatria",
+		"data-id": 88889068,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Ges Broncopulmonar Adulto",
+		"data-id": 88888984,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Ginecologia - Adolescente",
+		"data-id": 88889092,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Ginecologia - Climaterio",
+		"data-id": 32701364,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Ginecologia - Incontinencia Y Prolapso",
+		"data-id": 30101044,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Ginecologia - Infantil",
+		"data-id": 88889089,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Ginecologia - Infertilidad",
+		"data-id": 32701100,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Ginecologia - Oncologica",
+		"data-id": 30101082,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Ginecologia General Adulto",
+		"data-id": 88888987,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Ginecologia Oncologica",
+		"data-id": 30101015,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Hematologia Adulto",
+		"data-id": 30101046,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Hematologia Infantil",
+		"data-id": 32701243,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Hematooncologia",
+		"data-id": 32701002,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Implantologia",
+		"data-id": 30101016,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Infectologia Adulto",
+		"data-id": 30101043,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Infectologia Infantil",
+		"data-id": 32701046,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Inmunologia Adulto",
+		"data-id": 32701028,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Inmunologia Infantil",
+		"data-id": 32701374,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Insuficiencia Renal-Scc",
+		"data-id": 88889026,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Kine Evaluacion Musculo-Esqueletico",
+		"data-id": 32701152,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Kine Neurologica  Adultos",
+		"data-id": 32701153,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Kine Obesidad",
+		"data-id": 32701217,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Kine Obesidad Pediatria",
+		"data-id": 32701215,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Kine Oncologia Pediatrica",
+		"data-id": 32701184,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Kine Rehabilitacion Neurologica Adulto",
+		"data-id": 32701211,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Kine Rehabilitacion Piso Pelvico",
+		"data-id": 32701154,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Kine Rehabilitacion Pulmonar",
+		"data-id": 32701039,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Manejo Del Dolor",
+		"data-id": 32701069,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Matrona",
+		"data-id": 88888990,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Maxilo Facial",
+		"data-id": 32701260,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Medicina Del Viajero",
+		"data-id": 32701042,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Medicina Familiar",
+		"data-id": 32701264,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Medicina Familiar Adulto",
+		"data-id": 88889095,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Medicina Familiar Infantil",
+		"data-id": 88889085,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Medicina General - Atencion Inmediata",
+		"data-id": 88889087,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Medicina General Infantil",
+		"data-id": 32701270,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Medicina General Niños",
+		"data-id": 30101019,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Medicina Interna",
+		"data-id": 88889099,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Medicina Interna - Agenda Docente",
+		"data-id": 32701267,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Medicina Interna - Nefrologia",
+		"data-id": 32701252,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Medicina Interna - Respiratorio",
+		"data-id": 88889021,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Medicina Interna Dedicada A Cardiologia",
+		"data-id": 88888942,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Medicina Interna Dedicada A Gastroenterologia",
+		"data-id": 88888922,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Medicina Interna Dedicada A Nefrologia",
+		"data-id": 88888991,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Medicina Interna Dedicada A Reumatologia",
+		"data-id": 32701290,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Medicina Interna Dedicado A Hematologia",
+		"data-id": 32701371,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Medicina Interna- Hematologia Benigna",
+		"data-id": 32701355,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Medicina Materno Fetal",
+		"data-id": 32701232,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Medicina Materno Fetal",
+		"data-id": 30101020,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Medicina Preventiva",
+		"data-id": 32701130,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Medicina Tac",
+		"data-id": 88889058,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Medicina Terapia Anticoagulante",
+		"data-id": 30101021,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Nefrologia Adulto",
+		"data-id": 30101042,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Nefrologia Infantil",
+		"data-id": 30101028,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Neonatologia",
+		"data-id": 88889080,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Neuro-Oncologia",
+		"data-id": 32701230,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Neurocirugia Adulto",
+		"data-id": 32701299,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Neurocirugia Cirugia De Epilepsia",
+		"data-id": 32701298,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Neurocirugia Funcional",
+		"data-id": 32701182,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Neurocirugia Infantil",
+		"data-id": 32701034,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Neurocirugia Infantil",
+		"data-id": 32701301,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Neurocirugia Nervio Periferico",
+		"data-id": 32701296,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Neurocirugia Tumores Y Oncologia",
+		"data-id": 32701297,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Neurocirugia Vascular",
+		"data-id": 32701261,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Neurologia - Epilepsia",
+		"data-id": 32701255,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Neurologia - Neuromuscular",
+		"data-id": 88889091,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Neurologia Adulto",
+		"data-id": 32701285,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Neurologia Adulto - Cefalea",
+		"data-id": 32701228,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Neurologia Epilepsia",
+		"data-id": 30101023,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Neurologia Infantil",
+		"data-id": 32701052,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Neuropsicologia Y Rehabilitacion Adulto",
+		"data-id": 32701101,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Neuroradiologia Intervencional",
+		"data-id": 88889055,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Nirsevimab",
+		"data-id": 32701094,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Nutricion  Bariatrica",
+		"data-id": 30101035,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Nutricion Adulto (Nutricionista)",
+		"data-id": 88888956,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Nutricion Ela",
+		"data-id": 30101047,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Nutricion Infantil (Nutricionista)",
+		"data-id": 88888998,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Nutricion Renal Adulto",
+		"data-id": 32701344,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Nutricion Y Deportes",
+		"data-id": 32701373,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Nutricionista-Servicios Cuidados Conti",
+		"data-id": 32701178,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Nutriologia Infanto Juvenil",
+		"data-id": 30101075,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Nutriologo Adulto",
+		"data-id": 32701037,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Nutriologo Infantil",
+		"data-id": 88889058,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Obesidad Adulto",
+		"data-id": 88889090,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Obstetricia - General",
+		"data-id": 88889083,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Obstetricia - Medicina Materno Fetal",
+		"data-id": 88888980,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Obstetricia - Parto Natural",
+		"data-id": 88888971,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Odontologia General",
+		"data-id": 32701007,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Odontopediatria",
+		"data-id": 32701361,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Oftalmologia Cataratas",
+		"data-id": 32701136,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Oftalmologia Cirugia Refractiva",
+		"data-id": 32701244,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Oftalmologia Cornea",
+		"data-id": 88888999,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Oftalmologia Enfermedades De La Uvea",
+		"data-id": 32701241,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Oftalmologia General",
+		"data-id": 32701242,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Oftalmologia General Infantil",
+		"data-id": 32701200,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Oftalmologia Glaucoma",
+		"data-id": 88889035,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Oftalmologia Orbita",
+		"data-id": 32701247,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Oftalmologia Parpados Y Via Lagrimal",
+		"data-id": 32701205,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Oftalmologia Retina",
+		"data-id": 32701250,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Oftalmologia Retina - Prematuros",
+		"data-id": 32701245,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Oftalmopediatria - Estrabismo",
+		"data-id": 30101076,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Oncologia Adulto",
+		"data-id": 32701016,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Oncologia Infantil",
+		"data-id": 32701005,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Ortodoncia",
+		"data-id": 30101040,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Otorrinolaringologia Adulto",
+		"data-id": 30101063,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Otorrinolaringologia Infantil",
+		"data-id": 88889024,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Pediatria General",
+		"data-id": 88889051,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Pediatria Medicina Familiar Infantil",
+		"data-id": 32701315,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Periodoncia",
+		"data-id": 32701226,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Preventivo Pap",
+		"data-id": 32701102,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Psicologia Adolescencia",
+		"data-id": 30101030,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Psicologia Adulto",
+		"data-id": 32701380,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Psicologia Cuidados Paliativos",
+		"data-id": 30101064,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Psicologia Infantil",
+		"data-id": 32701105,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Psicologia Infanto-Juvenil",
+		"data-id": 32701356,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Psicologia Materno Fetal",
+		"data-id": 32701319,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Psicologia-Scc",
+		"data-id": 32701372,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Psicopedagogia",
+		"data-id": 30101031,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Psiquiatria Adulto",
+		"data-id": 32701113,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Psiquiatria Infanto Juvenil",
+		"data-id": 32701320,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Psiquiatria-Adolescencia",
+		"data-id": 32701359,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Psiquiatria-Control Trasplante",
+		"data-id": 88888960,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Radio-Oncologia",
+		"data-id": 32701114,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Radiologia Intervencionista",
+		"data-id": 88889039,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Rehabilitacion",
+		"data-id": 88888972,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Rehabilitacion Oral",
+		"data-id": 30101032,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Reumatologia Adulto",
+		"data-id": 88889107,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Reumatologia Adulto Ges",
+		"data-id": 30101048,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Reumatologia Infantil",
+		"data-id": 88888940,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Terapeuta Ocupacional Adulto",
+		"data-id": 88888941,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Terapeuta Ocupacional Infantil",
+		"data-id": 88888994,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Terapia Ocupacional Salud Mental",
+		"data-id": 88888993,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Test Psicopedagogia Bateria Evalua",
+		"data-id": 32701117,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Test Tadi",
+		"data-id": 88888954,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Toma De Muestra Ambulatoria",
+		"data-id": 88888936,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Trauma - Escoliosis Adulto E Infantil",
+		"data-id": 32701068,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Trauma Adulto- Cirugia Reconstructiva",
+		"data-id": 30101033,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Traumatologia Adulto",
+		"data-id": 88889115,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Traumatologia Adulto - Agenda Docente",
+		"data-id": 32701061,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Traumatologia Adulto - Cirugia Columna",
+		"data-id": 88889125,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Traumatologia Adulto - Cirugia Columna Agenda Docente",
+		"data-id": 32701059,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Traumatologia Adulto - Cirugia De Mano",
+		"data-id": 32701168,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Traumatologia Adulto - Cirugia De Pie",
+		"data-id": 32701064,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Traumatologia Adulto - Cirugia Hombro",
+		"data-id": 32701062,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Traumatologia Adulto - Cirugia Rodilla",
+		"data-id": 32701060,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Traumatologia Adulto - Patologia Caderas",
+		"data-id": 32701063,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Traumatologia Adulto - Tumores Musculoesqueleticos",
+		"data-id": 30101039,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Traumatologia Infantil",
+		"data-id": 32701019,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Traumatologia Infantil -  Cirugia Columna",
+		"data-id": 88889121,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Traumatologia Tobillo Y Pie",
+		"data-id": 30101034,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Urologia Adulto",
+		"data-id": 30101045,
+		"snomed_code": "123456XXXX"
+	},
+	{
+		"name": "Urologia Infantil",
+		"data-id": 32701233,
+		"snomed_code": "123456XXXX"
+	}
+]

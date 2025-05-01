@@ -1,0 +1,32 @@
+[
+  {
+    "office": "Todas las Sucursales",
+    "data-id": "TODOS",
+    "data-type": "office"
+  },
+  {
+    "office": "Dávila Recoleta",
+    "data-id": "1",
+    "data-type": "office"
+  },
+  {
+    "office": "Dávila Vespucio",
+    "data-id": "VESPUCIO",
+    "data-type": "office"
+  },
+  {
+    "office": "Dávila Las Condes",
+    "data-id": "4",
+    "data-type": "office"
+  },
+  {
+    "office": "Dávila Ñuñoa",
+    "data-id": "5",
+    "data-type": "office"
+  },
+  {
+    "office": "Dávila Maipú",
+    "data-id": "6",
+    "data-type": "office"
+  }
+]
