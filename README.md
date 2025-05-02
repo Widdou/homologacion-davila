@@ -79,6 +79,6 @@ Replace:
 /api/v1/event_tracker/{agenda_id}
 ```
 
-OBS: Parece que `chat_id` corresponde a lo mismo que `agenda_id`
+OBS: Parece que `chat_id` corresponde a lo mismo que `agenda_id` en `/cancel_hour`
 
 </details>
